@@ -1,0 +1,35 @@
+{
+    "PORT": 8443,
+    "APP_NAME": "",
+    "LOG_PATH": "logs/out.log",
+    "BASE_URL": "http://localhost:8443",
+    "REDIRECT_URL": "",
+    "MONGODB": {
+        "USERNAME": "",
+        "PASSWORD": "",
+        "HOST": ""
+    },
+    "CRYPTO": {
+        "HASH_BYTES": 32,
+        "SALT_BYTES": 16,
+        "ITERATIONS": 872791
+    },
+    "JWT": {
+        "KEY": "",
+        "TOKEN_CALLBACK_URL": ""
+    },
+    "FACEBOOK": {
+        "CLIENT_ID": "",
+        "CLIENT_SECRET": ""
+    },
+    "GOOGLE": {
+        "CLIENT_ID": "",
+        "CLIENT_SECRET": ""
+    },
+    "AWS": {
+        "ACCESS_KEY_ID": "",
+        "SECRET_ACCESS_KEY": "",
+        "REGION": "",
+        "SOURCE_EMAIL": ""
+    }
+}
