@@ -1,7 +1,7 @@
 {
-  "name": "corridadigital-api",
+  "name": "nodejs-api-boilerplace",
   "version": "0.1.0",
-  "description": "API for 'Corrida Digital'",
+  "description": "Simple yet complete nodejs api",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
